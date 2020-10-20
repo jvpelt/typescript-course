@@ -1,1 +1,0 @@
-# ESLINT + Create React App
