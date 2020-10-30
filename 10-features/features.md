@@ -36,6 +36,10 @@ Classes worden binnen Oliver niet vaak meer gebruikt, toch is het volgens de typ
 
 Generics zijn zoals de naam al aangeeft generieke types. Deze kunnen worden gebruikt om herbruikbare componenten te maken. In het voorbeeld in `10.7-generics.ts` zie je hoe we het voorbeeld van de getting started hebben omgebouwd om generics te gebruiken. De conventie is hier om altijd de letter T te gebruiken en bij een 2e generic de letter K.
 
+**Enumerations**
+
+Enumerations zijn een voorgedefinieerde set aan waarden (constanten) die je een naam en optioneel een waarde kunt geven. In `10.8-enumerations.ts` zie je een aantal voorbeelden van enums en hoe je ze kan gebruiken.
+
 **Utility Types**
 
 Typescript heeft een aantal helpers die je het leven makkelijk kunnen maken bij het definieren van types. Zo hoef je niet voor een functie waarbij je maar een subset aan data wil hebben van een interface een nieuwe interface te definieren maar kun je bijvoorbeeld de `Partial` utility gebruiken. Al deze utilities zijn [hier](https://www.typescriptlang.org/docs/handbook/utility-types.html) terug te vinden.

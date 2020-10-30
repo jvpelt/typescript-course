@@ -1,6 +1,6 @@
 # Getting started
 
-1. Installeer typescript -> npm i -g typescript ts-node
+1. Installeer typescript -> yarn global add typescript ts-node
 2. Check of het werkt -> tsc --help
 
 Nu gaan we een eerste applicatie maken waarbij we inzicht krijgen hoe de compiler werkt en om de kracht van typescript te tonen tijdens development.
